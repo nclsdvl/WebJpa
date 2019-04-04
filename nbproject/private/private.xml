@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/src/java/enterprise/web_jpa_war/servlet/SuppressionServlet.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/web/Suppression.jsp</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/src/java/enterprise/web_jpa_war/servlet/CreatePersonServlet.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/src/java/enterprise/web_jpa_war/servlet/ConsultationServlet.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/src/java/enterprise/web_jpa_war/entity/Technologie.java</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/web/Consultation.jsp</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/web/Modification.jsp</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/web/index.jsp</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/web/ListPerson.jsp</file>
+            <file>file:/C:/Users/Utilisateur/Documents/NetBeansProjects/WebJpa/src/java/enterprise/web_jpa_war/servlet/ListPersonServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
